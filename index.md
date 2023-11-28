@@ -1,8 +1,8 @@
-# Tonoya Ahmed <br>
-## ttahmed@ucsd.edu <br>
+# Tonoya Ahmed 
+## ttahmed@ucsd.edu 
 
-## Section: B14 <br>
-## Mentor: Haojian Jin <br>
+## Section: B14 
+## Mentor: Haojian Jin 
 
 **1.What is the most interesting topic covered in your domain this quarter?** \
 The most interesting topic in my domain so far was analyzing how agents created by a large language model respond to certain questions, depending on how you ask the question. The comprehensibility, detail, and structure of the agents answers differ greatly, depending on what language you choose to use in the phrasing of your question.
